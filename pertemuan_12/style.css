@@ -1,0 +1,59 @@
+#teks1 {
+    background-color: lightgray;
+    color: rgb(243, 67, 67);
+}
+
+/*.test {
+    color: black;
+}*/
+
+div .test {
+    color: black;
+    background-color: brown;
+}
+ 
+div.teks2 {
+    background-color: brown;
+    color: lightgray;
+}
+
+a[href]{
+    color: blue;
+    text-decoration: none;
+    background-color: lightgray;
+}
+
+a[href$=".com"]{
+     color: red;
+     text-decoration: none;
+     background-color: lightgray;
+}
+
+h2:hover{
+    color: lightgray;
+    background-color: brown;
+
+}
+
+p::selection{
+    color: lightgray;
+    background-color: brown;
+}
+
+p.test::selection{
+    background-color: lightgray;
+    color : brown;
+}
+
+.teks2::selection {
+    background-color: black;
+}
+
+div a[href]:hover{
+    background-color: brown;
+    color: black;
+}
+
+a[href]{
+    text-transform: uppercase;
+}
