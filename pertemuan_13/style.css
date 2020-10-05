@@ -1,0 +1,31 @@
+h1 {
+    color: black;
+    background-color:darkgrey ;
+}
+
+
+
+.image1 {
+    display: block;
+    background-color: darkgrey;
+    padding: 20px;
+    border: 10px solid black;
+
+}
+
+.image2 {
+    display: block;
+    background-color: darkgrey;
+    padding: 20px;
+    border: 10px solid black;
+    margin-left: 220px;
+}
+
+.image3 {
+    display: block;
+    background-color: darkgrey;
+    padding: 20px;
+    border: 10px solid black;
+    margin-left: 440px;
+}
+
